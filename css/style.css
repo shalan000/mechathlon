@@ -4082,6 +4082,7 @@ border:solid 1px #ddd;
 		top:100%;
 		background:#111;
 		color:#ccc;
+		overflow-y: scroll;
 	}
 	
 	.de-team-list p{
