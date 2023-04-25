@@ -7646,3 +7646,14 @@ display:table;
 		display:none;
 	}
 	}
+	.sponsor-logos {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+		grid-gap: 10px;
+	  }
+	  
+	  .sponsor-logos img {
+		max-width: 100%;
+		max-height: 100%;
+	  }
+	  
